@@ -37,7 +37,6 @@ As part of the Week 1 assignment, I have implemented the following changes:
 
 - No changes were made to the original structure or logic of the dataset  
 - This submission only covers the **data preparation stage (Week 1)**  
-- Further steps like modeling and predictions will be implemented in upcoming milestones
 
 ---
 
