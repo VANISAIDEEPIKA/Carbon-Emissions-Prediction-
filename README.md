@@ -45,4 +45,4 @@ As part of the Week 1 assignment, I have implemented the following changes:
 **Name:** Vani Sai Deepika  
 **Internship Project:** Carbon Emission Prediction  
 **Week:** 1 – Data Cleaning & Preparation  
-**GitHub Repo:** [https://github.com/VANISAIDEEPIKA/Carbon-Emissions-Prediction-.git](https://github.com/VANISAIDEEPIKA/Carbon-Emissions-Prediction-.git)
+**GitHub Repo:** [GitHub Repo Link](https://github.com/VANISAIDEEPIKA/Carbon-Emissions-Prediction-.git)
